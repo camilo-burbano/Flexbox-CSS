@@ -1,0 +1,92 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(202, 189, 189);
+}
+
+.rect1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.rectangulo1 {
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    margin: 0.5%;
+    height: 150px;
+    width: 60%;
+}
+
+.rect2 {
+    display: flex;
+    flex-direction: column;
+    width: 38%;
+    margin: 0.5%;
+}
+
+.rectangulo2 {
+    background-color: rgb(187, 184, 0);
+    border-style: solid;
+    border-color: rgb(135, 145, 1);
+    border-width: 2px;
+    height: 68.3px;
+    margin: 0.5%;
+}
+
+.rect3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.rectangulo3 {
+    background-color: rgb(187, 184, 0);
+    border-style: solid;
+    border-color: rgb(135, 145, 1);
+    border-width: 2px;
+    margin: 0.5%;
+    height: 20px;
+    width: 19%;
+}
+
+.rect4 {
+    display: flex;
+    flex-direction: row;
+}
+
+.rectangulo4 {
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(165, 155, 155);
+    border-width: 2px;
+    margin: 0.5%;
+    height: 70px;
+    width: 24%;
+}
+
+.rectangulo5 {
+    background-color: white;
+    border-style: solid;
+    border-color: rgb(165, 155, 155);
+    border-width: 2px;
+    margin: 0.5%;
+    height: 150px;
+    width: 99%;
+}
+
+.rect6 {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.rectangulo6 {
+    background-color: rgb(75, 75, 158);
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin: 1.1%;
+    height: 120px;
+    width: 14%;
+}
